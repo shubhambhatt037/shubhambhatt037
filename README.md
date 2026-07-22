@@ -40,7 +40,3 @@ Agent-native. I build with Claude Code daily: I own the architecture and read ev
 ## 📫 Reach me
 
 **shubhambhatt037@gmail.com** — happy to walk through any of this, including the private work, on a call.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambhatt037&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
