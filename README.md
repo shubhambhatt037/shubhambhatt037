@@ -13,7 +13,7 @@ Most of my work is in private repos (my own product plus client work through my 
 
 ## 🚀 Current work: [IdeaFast](https://www.ideafast.pro)
 
-A customer research platform that turns thousands of Reddit discussions into evidence-backed customer pain reports for founders. Live product, real payments, built and operated solo: LLM analysis pipeline, async data ingestion, subscriptions, programmatic SEO. Public showcase at [ideafast-public](https://github.com/shubhambhatt037/ideafast-public).
+A customer research platform that turns thousands of Reddit discussions into evidence-backed customer pain reports for founders. Live product, real payments, built and operated solo: LLM analysis pipeline, async data ingestion, pay-once billing, programmatic SEO. Public showcase at [ideafast-public](https://github.com/shubhambhatt037/ideafast-public).
 
 ## 🛠️ Selected work
 
